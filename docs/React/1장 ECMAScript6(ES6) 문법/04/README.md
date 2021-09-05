@@ -8,7 +8,7 @@ mete:
   - property: og:description
     content: 1.4 프라미스
   - property: og:url
-    content: https://nywwwww.github.io/blog/React/1장%20ECMAScript6(ES6)%20문법/03/
+    content: https://nywwwww.github.io/blog/React/1장%20ECMAScript6(ES6)%20문법/04/
 ---
 
 # 1.4 프라미스

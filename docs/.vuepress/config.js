@@ -13,10 +13,10 @@ const routes = [
   };
   
   module.exports = {
-      title: '강해지고 싶은 개발자',
+      title: '남씨의 개발블로그',
       description: '3대 500 목표로 하는 개발자의 블로그입니다 🚀',
       themeConfig: {
-        logo: '/img/logo.jpg',
+        logo: '/img/logo2.jpg',
         nav: [
           { text: 'Home', link: '/Home/'},
           { 

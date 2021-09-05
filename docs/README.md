@@ -1,8 +1,8 @@
 ---
 home: true
-heroImage: /img/logo.jpg
+heroImage: /img/logo2.jpg
 heroText: 강해지고 싶은 개발자
-tagline: 동기부여 용도의 블로그입니다 🚀
+tagline: 공부 정리 용도의 블로그입니다 🚀
 actionText: Get Started →
 actionLink: /Home/
 features:
